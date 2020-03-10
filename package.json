@@ -1,0 +1,25 @@
+{
+  "name": "crop256",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^13.1.6",
+    "@types/sharp": "^0.23.1",
+    "typescript": "^3.7.4"
+  },
+  "dependencies": {
+    "sharp": "^0.23.4",
+    "smartcrop-sharp": "^2.0.3"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "semi": false
+  }
+}
